@@ -7,10 +7,6 @@ It consists of 1 Datasheet, were it must be cleaned, filtered, and some conditio
 
 In addition, 3 pivot tables need to be created. Each is based on a specific field in the main datasheet.
 
-
 There are also two bonuses sheets that are based on the work completed earlier and are based on the final data result.
-
-
-
 
 
